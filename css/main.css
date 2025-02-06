@@ -1,0 +1,70 @@
+#logo{
+    margin-left: 4px;
+}
+#logo-home{
+    margin-top: -8px;
+}
+#logo-medal{
+    margin-top: -5px;
+}
+#logo-doar{
+    margin-top: -5px;
+}
+#logo-login{
+    margin-top: -5px;
+}
+#bt-cadastrar{
+    margin-top: 20px;
+}
+input, a{
+    font-family: roboto;
+}
+label{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#lis-li{
+    list-style: none;
+    
+}
+#exampleInputPassword2{
+    margin-top: 8px;
+}
+#text-index{
+    font-size: 2rem;
+}
+#mapa{
+    height:5px;
+    
+}
+#playlist{
+    margin-top: 30px;
+}
+.card{
+    margin-top: 15px;
+}
+#grupo{
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    text-align: justify;
+    font-family: Arial;
+    font-size: 13pt;
+}
+#link2{
+    text-align: all;
+    text-transform: uppercase;
+    font-family: arial;
+}
+#media{
+    margin-top: 20px;
+}
+#img-programas{
+    width: 90px;
+    height: 90px;
+}
+
+
+
+
+
+
